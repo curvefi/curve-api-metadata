@@ -1,0 +1,51 @@
+[
+  {
+    "defillamaProps": {
+      "project": "lido",
+      "symbol": "STETH"
+    },
+    "lstAddress": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
+  },
+  {
+    "defillamaProps": {
+      "project": "frax-ether",
+      "symbol": "SFRXETH"
+    },
+    "lstAddress": "0xac3e018457b222d93114458476f3e3416abbe38f"
+  },
+  {
+    "defillamaProps": {
+      "project": "rocket-pool",
+      "symbol": "RETH"
+    },
+    "lstAddress": "0xae78736cd615f374d3085123a210448e74fc6393"
+  },
+  {
+    "defillamaProps": {
+      "project": "coinbase-wrapped-staked-eth",
+      "symbol": "CBETH"
+    },
+    "lstAddress": "0xbe9895146f7af43049ca1c1ae358b0541ea49704"
+  },
+  {
+    "defillamaProps": {
+      "project": "ankr",
+      "symbol": "ANKRET"
+    },
+    "lstAddress": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb"
+  },
+  {
+    "defillamaProps": {
+      "project": "stakewise",
+      "symbol": "SETH2"
+    },
+    "lstAddress": "0xfe2e637202056d30016725477c5da089ab0a043a"
+  },
+  {
+    "defillamaProps": {
+      "project": "stader",
+      "symbol": "ETHX"
+    },
+    "lstAddress": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b"
+  }
+]
