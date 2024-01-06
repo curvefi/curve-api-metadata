@@ -4,48 +4,163 @@
       "project": "lido",
       "symbol": "STETH"
     },
-    "lstAddress": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
+    "lstAddresses": [
+      {
+        "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+        "blockchainId": "ethereum"
+      }
+    ]
   },
   {
     "defillamaProps": {
       "project": "frax-ether",
       "symbol": "SFRXETH"
     },
-    "lstAddress": "0xac3e018457b222d93114458476f3e3416abbe38f"
+    "lstAddresses": [
+      {
+        "address": "0xac3e018457b222d93114458476f3e3416abbe38f",
+        "blockchainId": "ethereum"
+      },
+      {
+        "address": "0xb90ccd563918ff900928dc529aa01046795ccb4a",
+        "blockchainId": "fantom"
+      },
+      {
+        "address": "0x3cd55356433c89e50dc51ab07ee0fa0a95623d53",
+        "blockchainId": "bsc"
+      },
+      {
+        "address": "0xecf91116348af1cffe335e9807f0051332be128d",
+        "blockchainId": "moonbeam"
+      },
+      {
+        "address": "0x95ab45875cffdba1e5f451b950bc2e42c0053f39",
+        "blockchainId": "arbitrum"
+      },
+      {
+        "address": "0x6d1fdbb266fcc09a16a22016369210a15bb95761",
+        "blockchainId": "polygon"
+      },
+      {
+        "address": "0x484c2d6e3cdd945a8b2df735e079178c1036578c",
+        "blockchainId": "optimism"
+      }
+    ]
   },
   {
     "defillamaProps": {
       "project": "rocket-pool",
       "symbol": "RETH"
     },
-    "lstAddress": "0xae78736cd615f374d3085123a210448e74fc6393"
+    "lstAddresses": [
+      {
+        "address": "0xae78736cd615f374d3085123a210448e74fc6393",
+        "blockchainId": "ethereum"
+      },
+      {
+        "address": "0x0266f4f08d82372cf0fcbccc0ff74309089c74d1",
+        "blockchainId": "polygon"
+      },
+      {
+        "address": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+        "blockchainId": "arbitrum"
+      },
+      {
+        "address": "0x9bcef72be871e61ed4fbbc7630889bee758eb81d",
+        "blockchainId": "optimism"
+      },
+      {
+        "address": "0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c",
+        "blockchainId": "base"
+      }
+    ]
   },
   {
     "defillamaProps": {
       "project": "coinbase-wrapped-staked-eth",
       "symbol": "CBETH"
     },
-    "lstAddress": "0xbe9895146f7af43049ca1c1ae358b0541ea49704"
+    "lstAddresses": [
+      {
+        "address": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+        "blockchainId": "ethereum"
+      },
+      {
+        "address": "0x4b4327db1600b8b1440163f667e199cef35385f5",
+        "blockchainId": "polygon"
+      },
+      {
+        "address": "0x1debd73e752beaf79865fd6446b0c970eae7732f",
+        "blockchainId": "arbitrum"
+      },
+      {
+        "address": "0xaddb6a0412de1ba0f936dcaeb8aaa24578dcf3b2",
+        "blockchainId": "optimism"
+      },
+      {
+        "address": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
+        "blockchainId": "base"
+      }
+    ]
   },
   {
     "defillamaProps": {
       "project": "ankr",
       "symbol": "ANKRETH"
     },
-    "lstAddress": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb"
+    "lstAddresses": [
+      {
+        "address": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+        "blockchainId": "ethereum"
+      },
+      {
+        "address": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
+        "blockchainId": "bsc"
+      },
+      {
+        "address": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
+        "blockchainId": "zkevm"
+      },
+      {
+        "address": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
+        "blockchainId": "arbitrum"
+      },
+      {
+        "address": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
+        "blockchainId": "fantom"
+      },
+      {
+        "address": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
+        "blockchainId": "optimism"
+      },
+      {
+        "address": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
+        "blockchainId": "avalanche"
+      }
+    ]
   },
   {
     "defillamaProps": {
       "project": "stakewise",
       "symbol": "OSETH"
     },
-    "lstAddress": "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38"
+    "lstAddresses": [
+      {
+        "address": "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38",
+        "blockchainId": "ethereum"
+      }
+    ]
   },
   {
     "defillamaProps": {
       "project": "stader",
       "symbol": "ETHX"
     },
-    "lstAddress": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b"
+    "lstAddresses": [
+      {
+        "address": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b",
+        "blockchainId": "ethereum"
+      }
+    ]
   }
 ]
