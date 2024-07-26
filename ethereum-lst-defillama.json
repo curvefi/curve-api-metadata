@@ -174,5 +174,25 @@
         "blockchainId": "ethereum"
       }
     ]
+  },
+  {
+    "defillamaProps": {
+      "project": "concentrator",
+      "symbol": "ASDCRV"
+    },
+    "lstAddresses": [
+      {
+        "address": "0x43e54c2e7b3e294de3a155785f52ab49d87b9922",
+        "blockchainId": "ethereum"
+      },
+      {
+        "address": "0x75289388d50364c3013583d97bd70ced0e183e32",
+        "blockchainId": "arbitrum"
+      },
+      {
+        "address": "0x75289388d50364c3013583d97bd70ced0e183e32",
+        "blockchainId": "polygon"
+      }
+    ]
   }
 ]
