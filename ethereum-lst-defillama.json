@@ -195,4 +195,32 @@
       }
     ]
   }
+  {
+    "defillamaProps": {
+      "project": "reserve",
+      "symbol": "USD3"
+    },
+    "lstAddresses": [
+      {
+        "address": "0x0d86883faf4ffd7aeb116390af37746f45b6f378",
+        "blockchainId": "ethereum"
+      }
+    ]
+  }
+  {
+    "defillamaProps": {
+      "project": "reserve",
+      "symbol": "ETH+"
+    },
+    "lstAddresses": [
+      {
+        "address": "0xe72b141df173b999ae7c1adcbf60cc9833ce56a8",
+        "blockchainId": "ethereum"
+      },
+      {
+        "address": "0x18c14c2d707b2212e17d1579789fc06010cfca23",
+        "blockchainId": "arbitrum"
+      }
+    ]
+  }
 ]
