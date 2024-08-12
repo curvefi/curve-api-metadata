@@ -197,7 +197,7 @@
   }
   {
     "defillamaProps": {
-      "project": "reserve",
+      "project": "reserve-protocol",
       "symbol": "USD3"
     },
     "lstAddresses": [
@@ -209,7 +209,7 @@
   }
   {
     "defillamaProps": {
-      "project": "reserve",
+      "project": "reserve-protocol",
       "symbol": "ETH+"
     },
     "lstAddresses": [
