@@ -194,7 +194,7 @@
         "blockchainId": "polygon"
       }
     ]
-  }
+  },
   {
     "defillamaProps": {
       "project": "reserve-protocol",
@@ -206,7 +206,7 @@
         "blockchainId": "ethereum"
       }
     ]
-  }
+  },
   {
     "defillamaProps": {
       "project": "reserve-protocol",
