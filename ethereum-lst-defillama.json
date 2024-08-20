@@ -222,5 +222,17 @@
         "blockchainId": "arbitrum"
       }
     ]
+  },
+  {
+    "defillamaProps": {
+      "project": "reserve-protocol",
+      "symbol": "KNOX"
+    },
+    "lstAddresses": [
+      {
+        "address": "0x0bbf664d46becc28593368c97236faa0fb397595",
+        "blockchainId": "arbitrum"
+      }
+    ]
   }
 ]
