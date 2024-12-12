@@ -237,7 +237,7 @@
   },
   {
     "defillamaProps": {
-      "project": "resolv",
+      "project": "resolv-rlp",
       "symbol": "RLP"
     },
     "lstAddresses": [
